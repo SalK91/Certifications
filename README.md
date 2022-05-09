@@ -23,3 +23,4 @@ Curated list of certifications relevant to Data Science and Machine Learning.
 | 17. | Advanced SQL | Udemy | short course on SQL window functions and CTEs. |  [Link](https://https://www.udemy.com/course/the-advanced-sql-course-2021/) |
 | 18. | Python for Everybody Specialization | Cousera | specialization 5-Courses on python |  [Link](https://www.coursera.org/specializations/python) |
 | 19. | AWS Fundamentals Specialization | Cousera | specialization 4-Courses on AWS |  [Link](https://www.coursera.org/specializations/aws-fundamentals) |
+| 20. | Google IT Automation with Python | Cousera | specialization 6-Courses on Python, Git and Automation |  [Link](https://www.coursera.org/professional-certificates/google-it-automation) |
